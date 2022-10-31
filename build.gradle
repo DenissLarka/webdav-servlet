@@ -38,7 +38,7 @@ dependencies {
     testCompile "org.springframework:spring-mock:2.0.7"
     
     addConfiguration("jettyRuntime")
-    jettyRuntime "org.mortbay.jetty:jsp-2.1:6.1.14", "org.mortbay.jetty:jetty-annotations:6.1.14"
+    jettyRuntime "org.mortbay.jetty:jsp-2.1:6.1.14", "org.mortbay.jetty:jetty-annotations:6.1.26"
 }
 
 defaultTasks "help"
