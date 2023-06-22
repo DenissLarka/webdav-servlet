@@ -27,7 +27,7 @@ targetCompatibility = 1.5
 dependencies {
     addMavenRepo()
 
-    providedCompile "javax.servlet:servlet-api:2.4"
+    providedCompile "javax.servlet:servlet-api:2.5"
 
     compile "org.slf4j:slf4j-api:1.4.3"
     compile "org.slf4j:slf4j-log4j12:1.4.3"
