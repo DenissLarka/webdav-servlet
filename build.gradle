@@ -29,8 +29,8 @@ dependencies {
 
     providedCompile "javax.servlet:servlet-api:2.4"
 
-    compile "org.slf4j:slf4j-api:1.4.3"
-    compile "org.slf4j:slf4j-log4j12:1.4.3"
+    compile "org.slf4j:slf4j-api:2.0.16"
+    compile "org.slf4j:slf4j-log4j12:2.0.16"
     compile "log4j:log4j:1.2.12"
     testCompile "junit:junit:4.4"
     testCompile "org.jmock:jmock:2.4.0"
